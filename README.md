@@ -155,7 +155,6 @@ Practicing SQL queries and relational database concepts.
 - GROUP BY and HAVING
 - CASE WHEN
 - Aggregate Functions
-- PL/SQL Basics
 
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
 
