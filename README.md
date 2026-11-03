@@ -85,7 +85,7 @@ I enjoy exploring automation technologies, building CI/CD pipelines, writing Jav
 | 🚀 Application Server | Apache Tomcat |
 | 🐙 Version Control | Git, GitHub |
 | ☕ Programming | Java, OOP Concepts |
-| 🗄️ Database | Oracle SQL, Joins, Subqueries, CASE WHEN, PL/SQL Basics |
+| 🗄️ Database | Oracle SQL |
 
 </div>
 
